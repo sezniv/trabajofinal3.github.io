@@ -1,0 +1,54 @@
+body{
+background-color: hsl(34, 78%, 91%, 30%);    
+}
+.header{
+background-image: url(../imgs/uriel.png);
+background-position: center;
+background-size: cover;
+background-color: hsl(34, 78%, 91%, 30%) ;
+/*esto fue nomas una prueba de color, el cuarto porcentual corresponde a la opacidad*/
+align-items: center;
+background-attachment: scroll;
+
+padding: 1%;
+border-radius: 15px 15px 15px 15px;
+margin: 2%;
+/*Me gustaria agregarle un color al margin*/
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+color: aliceblue;
+text-align: center;
+}
+
+#text_header{
+ color: darkslategray;  
+}
+/*para la otra pones .clase y etiqueta es mas facil*/
+
+
+.main{
+width: 100%;
+margin-top: auto;
+padding: 1%;
+text-align: justify;
+}
+
+.main td{ 
+ width: 50%;   
+ padding: 2em
+ /*aprender a dominar los em, rem y las cajas, como misión*/
+}
+
+.main img{
+width: 50%;
+}
+
+.footer{
+font-weight: bold;
+font-style: unset;    
+text-align: center;
+background-color: hsl(34, 78%, 91%, 30%) ;
+padding: 1%;
+color: darkslategrey;
+}

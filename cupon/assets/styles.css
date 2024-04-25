@@ -1,0 +1,118 @@
+*{
+ padding: 0px;
+ margin: 0px;
+ font-family: Roboto,Light;
+}
+.colorpadding{
+    background-color: #28A745;
+}
+
+.colorboton{
+    border:  solid white;
+}
+
+.centrar{
+    align-items: flex-end;
+    ;
+}
+
+.colorblanco{
+    color: white !important;
+    
+}
+
+.linea{
+    border-width: 1px solid #DDDDDD;
+    height: 2px;
+    max-width: 80px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+}
+
+.formatitulo{
+    font-family: Roboto, Light;
+    font-size: 20pt;
+    color: #212529;
+    justify-content:start;
+    width: 261pt;
+    height: 73pt;
+    
+}
+
+.tamañocupon{
+    width: 278pt;
+    height: 379pt;
+}
+
+.formatexto2{
+   
+    max-width: 261pt;
+    justify-content: start;
+    font-family: Roboto, Light;
+    font-size: 16pt;
+    color: #707070;
+    
+}
+.formatexto3{
+ 
+    font-family: Roboto, Light;
+    color: #707070;
+
+}
+
+.textoblanco{ 
+    color: white;
+}
+
+.alinearizquierdo{
+    align-items: end;
+}
+
+.precioreal{
+    height: 19pt;
+    max-width: 50;
+    
+    font-family: Roboto, Light;
+    color: #707070;
+    font-size:16pt ;
+    
+}
+
+.preciooferta{
+   height: 24pt;
+   width: 74pt ;
+   font-family: Roboto, Light; 
+   color: #28A745;
+   font-size: 20pt;
+}
+
+.colorform{
+    background-color: #28A745;
+}
+
+
+.a{
+    
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.diseñomargen{
+    color: #FFFFFF;
+    font-size: 21pt;
+    font-family: Roboto, Medium;
+}
+
+.tamañocaja{
+    width: auto;
+    height: auto;
+    max-height: 300pt;
+
+}
+
+.imagenlogo{
+    height: 24pt;
+    width: 82pt;
+}
